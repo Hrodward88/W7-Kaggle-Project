@@ -1,0 +1,326 @@
+CPU,RAM (GB),Storage,GPU,CPULabel,StorageLabel,GPULabel
+Intel Core i7 7500U 2.7GHz,6,1TB HDD,Intel HD Graphics 620,41,6,26
+Intel Core i7 7700HQ 2.8GHz,16,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,43,11,39
+Intel Core i7 7500U 2.7GHz,12,512GB SSD,Intel HD Graphics 620,41,19,26
+Intel Core i5 6200U 2.3GHz,4,128GB SSD,Intel HD Graphics 520,27,1,22
+AMD A12-Series 9720P 3.6GHz,6,256GB SSD,AMD Radeon 530,2,10,4
+Intel Core i5 6200U 2.3GHz,4,256GB SSD,Intel HD Graphics 520,27,10,22
+Intel Core i5 6200U 2.3GHz,4,500GB HDD,Intel HD Graphics 520,27,17,22
+Intel Core i5 7200U 2.5GHz,4,500GB HDD,AMD Radeon R5 M430,30,17,11
+Intel Core i5 7200U 2.5GHz,8,1TB HDD,Intel HD Graphics 620,30,6,26
+Intel Core i7 7700HQ 2.8GHz,8,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,43,2,41
+Intel Core i7 7500U 2.7GHz,8,1TB HDD,AMD Radeon R7 M445,41,6,14
+Intel Core i5 7200U 2.5GHz,8,128GB SSD,Intel HD Graphics 620 ,30,1,27
+Intel Core M 6Y75 1.2GHz,8,512GB SSD,Intel HD Graphics 515,21,19,21
+Intel Core i3 6006U 2GHz,4,128GB SSD +  1TB HDD,AMD Radeon 520,23,2,3
+Intel Celeron Dual Core N3350 1.1GHz,4,128GB SSD,Intel HD Graphics 500,15,1,19
+Intel Core i5 6200U 2.3GHz,8,256GB SSD,Intel HD Graphics 520,27,10,22
+Intel Core i5 7200U 2.5GHz,8,256GB SSD,Intel HD Graphics 620,30,10,26
+Intel Core i5 7200U 2.5GHz,8,256GB SSD,Intel HD Graphics 620,30,10,26
+Intel Core i7 7500U 2.7GHz,8,256GB SSD,Intel HD Graphics 620,41,10,26
+Intel Pentium Quad Core N4200 1.1GHz,4,500GB HDD,Intel HD Graphics 505,49,17,20
+Intel Core i7 7700HQ 2.8GHz,16,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,43,11,39
+Intel Core i7 7500U 2.7GHz,8,512GB SSD,Intel HD Graphics 620,41,19,26
+Intel Core i7 7700HQ 2.8GHz,8,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,43,2,38
+Intel Core i5 7200U 2.5GHz,8,256GB SSD,Intel HD Graphics 620,30,10,26
+Intel Core i3 7100U 2.4GHz,4,128GB SSD,Intel HD Graphics 620,25,1,26
+Intel Core i5 7200U 2.5GHz,4,500GB HDD,Intel HD Graphics 620,30,17,26
+Intel Core i5 6200U 2.3GHz,4,128GB SSD,Intel HD Graphics 520,27,1,22
+Intel Core i5 6300U 2.4GHz,4,256GB SSD,Intel HD Graphics 520,29,10,22
+Intel Core i5 7200U 2.5GHz,4,256GB SSD,Intel HD Graphics 620,30,10,26
+Intel Core i7 6600U 2.6GHz,8,256GB SSD,Intel HD Graphics 520,37,10,22
+Intel Core i5 7200U 2.5GHz,8,256GB SSD,Nvidia GeForce 930MX,30,10,34
+Intel Core i3 7100U 2.4GHz,4,500GB HDD,Intel HD Graphics 620,25,17,26
+Intel Core i5 7300HQ 2.5GHz,8,1TB Hybrid,Nvidia GeForce GTX 1050,32,7,38
+Intel Core i5 7200U 2.5GHz,4,500GB HDD,Intel HD Graphics 620,30,17,26
+Intel Core i5 7200U 2.5GHz,4,256GB SSD,Intel HD Graphics 620,30,10,26
+Intel Core i7 6500U 2.5GHz,8,256GB SSD,Intel HD Graphics 520,36,10,22
+Intel Core i3 7100U 2.4GHz,4,500GB HDD,Intel HD Graphics 620,25,17,26
+Intel Core i5 6200U 2.3GHz,8,256GB SSD,Intel HD Graphics 520,27,10,22
+Intel Core i3 7100U 2.4GHz,4,256GB SSD,Intel HD Graphics 620,25,10,26
+Intel Core i7 6820HQ 2.7GHz,16,512GB SSD,Nvidia Quadro 3000M,40,19,51
+Intel Core i5 6200U 2.3GHz,8,256GB SSD,Intel HD Graphics 520,27,10,22
+Intel Core i7 6500U 2.5GHz,8,256GB SSD,Intel HD Graphics 520,36,10,22
+Intel Core i3 6100U 2.3GHz,4,1TB HDD,Intel HD Graphics 520,24,6,22
+Intel Core i5 6200U 2.3GHz,8,256GB SSD,Intel HD Graphics 520,27,10,22
+Intel Core i5 7200U 2.5GHz,8,256GB SSD,Intel HD Graphics 620,30,10,26
+Intel Core i7 7500U 2.7GHz,8,256GB SSD,Nvidia GeForce 930MX,41,10,34
+Intel Core i5 6300U 2.4GHz,8,500GB HDD,Intel HD Graphics 520,29,17,22
+Intel Core i5 7200U 2.5GHz,4,256GB SSD,Intel HD Graphics 620,30,10,26
+Intel Core i5 7200U 2.5GHz,4,500GB HDD,Intel HD Graphics 620,30,17,26
+Intel Core i5 7200U 2.5GHz,4,500GB HDD,Intel HD Graphics 620,30,17,26
+Intel Core i5 7200U 2.5GHz,8,256GB SSD,Intel HD Graphics 620,30,10,26
+Intel Core i5 7200U 2.5GHz,8,256GB SSD,Nvidia GeForce 930MX,30,10,34
+Intel Core i5 7200U 2.5GHz,4,256GB SSD,Intel HD Graphics 620,30,10,26
+AMD A9-Series 9420 3GHz,6,1TB HDD,AMD Radeon R5,7,6,8
+Intel Core i7 7700HQ 2.8GHz,8,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,43,2,38
+Intel Core i5 6200U 2.3GHz,8,256GB SSD,Intel HD Graphics 520,27,10,22
+Intel Core i7 6500U 2.5GHz,8,256GB SSD,Intel HD Graphics 520,36,10,22
+Intel Core i7 6500U 2.5GHz,8,256GB SSD,Intel HD Graphics 520,36,10,22
+Intel Core i5 7200U 2.5GHz,4,500GB HDD,Intel HD Graphics 620,30,17,26
+Intel Core i7 6600U 2.6GHz,8,256GB SSD,Intel HD Graphics 520,37,10,22
+Intel Core i5 6300U 2.4GHz,8,256GB SSD,Intel HD Graphics 520,29,10,22
+Intel Core i5 7200U 2.5GHz,8,256GB SSD,Intel HD Graphics 620,30,10,26
+Intel Core i7 6500U 2.5GHz,4,256GB SSD,Intel HD Graphics 520,36,10,22
+Intel Atom X5-Z8350 1.44GHz,2,32GB Flash Storage,Intel HD Graphics 400,10,15,17
+Intel Core i7 6500U 2.5GHz,16,256GB SSD,Nvidia GeForce 930M,36,10,33
+Intel Core i5 6200U 2.3GHz,8,256GB SSD,Intel HD Graphics 520,27,10,22
+Intel Core i5 6200U 2.3GHz,4,500GB HDD,Intel HD Graphics 520,27,17,22
+Intel Core i5 6300U 2.4GHz,8,256GB SSD +  500GB HDD,Intel HD Graphics 520,29,13,22
+Intel Core i5 6200U 2.3GHz,8,256GB SSD,Intel HD Graphics 520,27,10,22
+Intel Core i7 6820HK 2.7GHz,16,256GB SSD +  1TB HDD,Nvidia GeForce GTX 980M,39,11,50
+Intel Core i7 6700HQ 2.6GHz,16,128GB SSD +  1TB HDD,Nvidia GeForce GTX 980M,38,2,50
+Intel Celeron Dual Core N3060 1.6GHz,4,16GB Flash Storage,Intel HD Graphics 400,14,3,17
+Intel Core i7 6600U 2.6GHz,16,256GB SSD,Intel HD Graphics 520,37,10,22
+Intel Core i7 7500U 2.7GHz,8,1TB HDD,Nvidia GeForce 940MX,41,6,35
+Intel Core i5 7200U 2.7GHz,8,256GB SSD,Intel HD Graphics 620,31,10,26
+Intel Core i5 7200U 2.5GHz,4,256GB SSD,Intel HD Graphics 620,30,10,26
+Intel Core i7 7500U 2.7GHz,16,1TB SSD,Intel HD Graphics 620,41,8,26
+Intel Core i3 6100U 2.3GHz,4,500GB HDD,Intel HD Graphics 520,24,17,22
+Intel Core i5 7200U 2.5GHz,4,500GB HDD,Intel HD Graphics 620,30,17,26
+AMD A8-Series 7410 2.2GHz,8,1TB HDD,AMD Radeon R5,5,6,8
+Intel Core i7 7500U 2.7GHz,12,256GB SSD,Intel HD Graphics 620,41,10,26
+Intel Core i7 6700HQ 2.6GHz,16,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,38,11,41
+Intel Core i7 7500U 2.7GHz,8,256GB SSD,Intel HD Graphics 620,41,10,26
+Intel Core i7 6700HQ 2.6GHz,16,1TB HDD,Nvidia GeForce GTX 965M,38,6,47
+Intel Core i5 7200U 2.5GHz,4,1TB HDD,Intel HD Graphics,30,6,16
+Intel Core i7 7500U 2.7GHz,16,2TB HDD,AMD Radeon R7 M445,41,14,14
+Intel Core i7 6700HQ 2.6GHz,16,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,38,11,41
+Intel Core i7 7500U 2.7GHz,8,256GB SSD,Intel HD Graphics 620,41,10,26
+Intel Core i7 6820HK 2.7GHz,64,1TB SSD,Nvidia GeForce GTX 980 ,39,8,49
+Intel Core i7 6500U 2.5GHz,8,256GB SSD,Intel HD Graphics 520,36,10,22
+Intel Core i7 6700HQ 2.6GHz,16,256GB SSD +  1TB HDD,Nvidia GeForce GTX 970M,38,11,48
+Intel Core M 1.1GHz,8,256GB Flash Storage,Intel HD Graphics 515,17,9,21
+Intel Core i3 6100U 2.3GHz,4,500GB HDD,Intel HD Graphics 520,24,17,22
+Intel Core i5 6200U 2.3GHz,4,500GB HDD,Intel HD Graphics 520,27,17,22
+Intel Core i5 6200U 2.3GHz,8,256GB SSD,Intel HD Graphics 520,27,10,22
+Intel Core i7 7500U 2.7GHz,8,256GB SSD,Intel HD Graphics 620,41,10,26
+Intel Core i7 6500U 2.5GHz,8,256GB SSD,Intel HD Graphics 520,36,10,22
+Intel Core i5 6200U 2.3GHz,8,1TB HDD,AMD Radeon R5 M330,27,6,10
+Intel Core i5 6300HQ 2.3GHz,4,1TB HDD,Nvidia GeForce GTX 950M,28,6,43
+Intel Core i7 7700HQ 2.8GHz,16,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,43,11,42
+Intel Core i5 6200U 2.3GHz,4,500GB HDD,Intel HD Graphics 520,27,17,22
+Intel Core i5 6200U 2.3GHz,4,500GB HDD,Intel HD Graphics 520,27,17,22
+Intel Core M 6Y75 1.2GHz,8,512GB SSD,Intel HD Graphics 515,21,19,21
+Intel Core i7 6820HK 2.7GHz,32,512GB SSD +  1TB Hybrid,Nvidia GeForce GTX 980M,39,21,50
+Intel Atom x5-Z8550 1.44GHz,4,64GB Flash Storage,Intel HD Graphics 400,11,22,17
+Intel Core i7 7500U 2.7GHz,16,512GB SSD,Intel HD Graphics 620,41,19,26
+Intel Core i5 7200U 2.5GHz,8,256GB SSD,Intel HD Graphics 620,30,10,26
+Intel Core i5 6200U 2.3GHz,4,500GB HDD,Intel HD Graphics 520,27,17,22
+Intel Core i7 6500U 2.5GHz,8,256GB SSD,AMD FirePro W4190M,36,10,1
+Intel Core i5 6200U 2.3GHz,8,1GB SSD,Intel HD Graphics 520,27,5,22
+Intel Pentium Dual Core 4405Y 1.5GHz,4,32GB Flash Storage,Intel HD Graphics 515,46,15,21
+AMD A8-Series 7410 2.2GHz,4,500GB HDD,AMD Radeon R5,5,17,8
+Intel Pentium Quad Core N3700 1.6GHz,4,500GB HDD,Intel HD Graphics,47,17,16
+Intel Core i3 6006U 2GHz,4,1TB HDD,Intel HD Graphics 520,23,6,22
+Intel Core i7 7700HQ 2.8GHz,8,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,43,11,41
+Intel Core i5 8250U 1.6GHz,4,256GB SSD,AMD Radeon 530,34,10,4
+Intel Core i5 6200U 2.3GHz,4,128GB SSD,Intel HD Graphics 520,27,1,22
+Intel Core i5 7200U 2.5GHz,8,256GB SSD +  1TB HDD,Nvidia GeForce GTX 950M,30,11,43
+Intel Core i5 7200U 2.5GHz,8,1TB HDD,AMD Radeon R7 M445,30,6,14
+Intel Core i7 6700HQ 2.6GHz,8,256GB SSD,Nvidia GeForce GTX 965M,38,10,47
+Intel Pentium Quad Core N3710 1.6GHz,4,1TB HDD,Intel HD Graphics 405,48,6,18
+Intel Core i7 6700HQ 2.6GHz,16,128GB SSD +  1TB HDD,Nvidia GeForce GTX 980M,38,2,50
+Intel Core i3 6100U 2.3GHz,4,500GB HDD,Intel HD Graphics 520,24,17,22
+Intel Core i3 6100U 2.3GHz,4,128GB SSD,Intel HD Graphics 520,24,1,22
+Intel Celeron Dual Core 3205U 1.5GHz,4,16GB SSD,Intel HD Graphics,12,4,16
+Intel Core i7 6700HQ 2.6GHz,8,1TB HDD,AMD FirePro W6150M,38,6,2
+Intel Core i7 7700HQ 2.8GHz,16,512GB SSD,Nvidia GeForce GTX 1050 Ti,43,19,39
+Intel Core i5 6200U 2.3GHz,8,256GB SSD,Intel HD Graphics 520,27,10,22
+Intel Core i7 6700HQ 2.6GHz,8,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M,38,2,46
+Intel Core i5 6200U 2.3GHz,4,256GB SSD,Intel HD Graphics 520,27,10,22
+AMD A6-Series 9220 2.5GHz,4,1TB HDD,AMD Radeon R4,3,6,6
+Intel Core i7 6700HQ 2.6GHz,16,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M,38,2,46
+Intel Core M 6Y54 1.1GHz,8,256GB SSD,Intel HD Graphics 515,20,10,21
+Intel Core i5 6200U 2.3GHz,4,500GB HDD,AMD Radeon R5 M315,27,17,9
+Intel Core i3 6006U 2.0GHz,4,128GB SSD,Intel HD Graphics 520,22,1,22
+Intel Core i7 6500U 2.5GHz,8,512GB SSD,Intel HD Graphics 520,36,19,22
+Intel Atom x5-Z8550 1.44GHz,4,64GB Flash Storage,Intel HD Graphics 400,11,22,17
+Intel Core i7 7560U 2.4GHz,8,256GB SSD,Intel Iris Plus Graphics 640,42,10,28
+Intel Core i7 6820HK 2.7GHz,16,256GB SSD +  1TB Hybrid,Nvidia GeForce GTX 980M,39,12,50
+Intel Core i7 6500U 2.5GHz,8,256GB SSD,Intel HD Graphics 520,36,10,22
+Intel Core i7 7500U 2.7GHz,16,512GB SSD,Intel HD Graphics 620,41,19,26
+Intel Core i7 6700HQ 2.6GHz,8,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M,38,2,46
+Intel Atom X5-Z8350 1.44GHz,4,32GB Flash Storage,Intel HD Graphics 400,10,15,17
+Intel Core i5 6200U 2.3GHz,8,256GB SSD,Intel HD Graphics 520,27,10,22
+Intel Core i5 6200U 2.3GHz,8,256GB SSD,Intel HD Graphics 520,27,10,22
+Intel Core i5 6200U 2.3GHz,4,500GB HDD,Intel HD Graphics 520,27,17,22
+Intel Core i3 7100U 2.4GHz,4,1TB HDD,Intel HD Graphics 620,25,6,26
+Intel Core i7 6500U 2.5GHz,8,256GB SSD,Intel HD Graphics 520,36,10,22
+Intel Atom x5-Z8550 1.44GHz,4,64GB Flash Storage,Intel HD Graphics 400,11,22,17
+Intel Core i5 6300U 2.4GHz,8,256GB SSD,Intel HD Graphics 520,29,10,22
+Intel Core i5 7300HQ 2.5GHz,8,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,32,2,41
+Intel Core i5 6300HQ 2.3GHz,8,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,28,2,41
+Intel Core i7 7500U 2.7GHz,8,2TB HDD,Intel HD Graphics 620,41,14,26
+Intel Core i7 6600U 2.6GHz,8,512GB SSD,Nvidia Quadro M500M,37,19,54
+Intel Celeron Dual Core N3350 1.1GHz,4,32GB Flash Storage,Intel HD Graphics 500,15,15,19
+Intel Core i7 7500U 2.7GHz,8,256GB SSD,Intel HD Graphics 620,41,10,26
+Intel Core i5 7200U 2.5GHz,4,1TB HDD,Nvidia GeForce 940MX,30,6,35
+Intel Core i7 6500U 2.5GHz,16,1TB Hybrid,AMD Radeon R7 M360,36,7,12
+Intel Core i7 6700HQ 2.6GHz,8,256GB SSD,Nvidia Quadro M3000M,38,10,53
+Intel Core i5 7200U 2.5GHz,8,1TB HDD,AMD Radeon R7 M445,30,6,14
+Intel Core i7 6820HQ 2.7GHz,16,256GB SSD +  1TB HDD,Nvidia GeForce GTX 980M,40,11,50
+Intel Core i7 6500U 2.5GHz,8,256GB SSD,Intel HD Graphics 520,36,10,22
+Intel Core i7 6600U 2.6GHz,16,512GB SSD,Intel HD Graphics 520,37,19,22
+Intel Core i7 7700HQ 2.8GHz,8,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,43,2,38
+Intel Core i5 6300U 2.4GHz,8,256GB SSD,Intel HD Graphics 520,29,10,22
+Intel Core i7 6700HQ 2.6GHz,8,256GB SSD,Nvidia Quadro M1000M,38,10,52
+Intel Core i7 6600U 2.6GHz,8,256GB SSD,Intel HD Graphics 520,37,10,22
+Intel Core i7 6700HQ 2.6GHz,8,256GB SSD,Nvidia Quadro M1000M,38,10,52
+Intel Core i7 6500U 2.50GHz,8,256GB SSD,Intel HD Graphics 520,35,10,22
+Intel Core i7 7500U 2.7GHz,8,256GB SSD,Nvidia GeForce 940MX,41,10,35
+Intel Core i5 6200U 2.3GHz,8,256GB SSD,Intel HD Graphics 520,27,10,22
+Intel Core i7 6500U 2.5GHz,8,256GB SSD,Intel HD Graphics 520,36,10,22
+Intel Core i3 6006U 2.0GHz,4,1TB HDD,Intel HD Graphics 520,22,6,22
+AMD E-Series 7110 1.8GHz,4,500GB HDD,AMD Radeon R2 Graphics,8,17,5
+Intel Core i5 6200U 2.3GHz,8,1TB HDD,AMD Radeon R5 M330,27,6,10
+Intel Core i7 7700HQ 2.8GHz,8,1TB HDD,Nvidia GeForce GTX 1050Ti,43,6,40
+Intel Core i5 6300HQ 2.3GHz,8,256GB SSD,Nvidia GeForce 960M,28,10,36
+AMD A6-Series A6-9220 2.5GHz,4,256GB SSD,AMD Radeon 520,4,10,3
+Intel Core i7 7700HQ 2.8GHz,16,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,43,11,39
+Intel Core i7 6600U 2.6GHz,12,512GB SSD,Intel HD Graphics 520,37,19,22
+Intel Core i5 6200U 2.3GHz,8,1TB Hybrid,AMD Radeon R5 M330,27,7,10
+Intel Core i7 6600U 2.6GHz,8,512GB SSD,Intel HD Graphics 520,37,19,22
+Intel Core i7 6600U 2.6GHz,8,256GB SSD,Intel HD Graphics 520,37,10,22
+Intel Core i7 6700HQ 2.6GHz,16,256GB SSD +  1TB HDD,Nvidia GeForce GTX 970M,38,11,48
+Intel Core i7 7700HQ 2.8GHz,8,1TB HDD,Nvidia GeForce GTX 1050,43,6,38
+Intel Core i3 6006U 2.0GHz,8,1TB HDD,Intel HD Graphics 520,22,6,22
+Intel Core i5 6200U 2.3GHz,4,500GB HDD,Intel HD Graphics 520,27,17,22
+Intel Core i7 7700HQ 2.8GHz,8,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,43,2,39
+Intel Core i5 7200U 2.5GHz,8,256GB SSD,Intel HD Graphics 620,30,10,26
+Intel Core i3 6006U 2GHz,4,1TB HDD,Nvidia GeForce 920MX ,23,6,32
+Intel Celeron Dual Core N3060 1.6GHz,2,32GB Flash Storage,Intel HD Graphics 400,14,15,17
+Intel Core i7 7500U 2.7GHz,8,1TB HDD,Nvidia GeForce GTX 1050,41,6,38
+Intel Core i7 6500U 2.5GHz,8,256GB SSD,Intel HD Graphics 520,36,10,22
+Intel Core i7 8550U 1.8GHz,16,512GB SSD,Intel UHD Graphics 620,45,19,29
+Intel Celeron Dual Core N3050 1.6GHz,4,500GB HDD,Intel HD Graphics,13,17,16
+Intel Core i5 6200U 2.3GHz,4,500GB HDD,Intel HD Graphics 520,27,17,22
+Intel Core i7 7500U 2.7GHz,8,1TB HDD,Nvidia GeForce 940MX,41,6,35
+Intel Core i3 7100U 2.4GHz,4,256GB SSD,Intel HD Graphics 620,25,10,26
+Intel Core i7 6500U 2.5GHz,4,1TB Hybrid,Intel HD Graphics 520,36,7,22
+Intel Core i7 6700HQ 2.6GHz,16,512GB SSD,Nvidia GeForce GTX 960,38,19,44
+Intel Core i7 6700HQ 2.6GHz,16,128GB SSD +  1TB HDD,Nvidia GeForce GTX 970M,38,2,48
+Intel Core i3 6100U 2.3GHz,4,500GB HDD,Intel HD Graphics 520,24,17,22
+Intel Core i5 6200U 2.3GHz,8,256GB SSD,Intel HD Graphics 520,27,10,22
+Intel Core i7 7500U 2.7GHz,6,256GB SSD,Nvidia GeForce 920M,41,10,30
+Intel Core i7 7500U 2.7GHz,8,256GB SSD,Nvidia GeForce GT 940MX,41,10,37
+Intel Celeron Dual Core N3350 2GHz,4,500GB HDD,Intel HD Graphics 500,16,17,19
+Intel Core i7 6700HQ 2.6GHz,6,1TB HDD,Nvidia GeForce GTX 960M,38,6,46
+Intel Core i7 6700HQ 2.6GHz,8,256GB SSD +  1TB HDD,Nvidia GeForce GTX 960M,38,11,46
+Intel Core i7 7500U 2.7GHz,16,512GB SSD,Intel HD Graphics 620,41,19,26
+Intel Core i5 7200U 2.5GHz,4,256GB SSD,Nvidia GeForce 940MX,30,10,35
+Intel Core i5 6300U 2.4GHz,8,256GB SSD,Intel HD Graphics 520,29,10,22
+Intel Core i7 7700HQ 2.8GHz,16,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,43,11,42
+Intel Core i5 7300HQ 2.5GHz,8,1TB HDD,Nvidia GeForce GTX 1050,32,6,38
+Samsung Cortex A72&A53 2.0GHz,4,32GB Flash Storage,ARM Mali T860 MP4,50,15,15
+Intel Core i5 7200U 2.5GHz,4,500GB HDD,Intel HD Graphics 620,30,17,26
+Intel Core M 1.1GHz,8,256GB Flash Storage,Intel HD Graphics 5300,17,9,23
+Intel Core i5 7200U 2.5GHz,8,256GB SSD,Intel HD Graphics 620,30,10,26
+Intel Core i7 7700HQ 2.8GHz,12,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,43,2,38
+Intel Core i3 6006U 2GHz,4,1TB HDD,AMD Radeon R5 M430,23,6,11
+Intel Core i7 6700HQ 2.6GHz,16,512GB SSD +  1TB HDD,Nvidia GeForce GTX 980M,38,20,50
+Intel Celeron Dual Core N3350 2GHz,4,1TB HDD,Intel HD Graphics 500,16,6,19
+Intel Core i7 7700HQ 2.8GHz,16,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,43,11,41
+Intel Core i3 6006U 2.0GHz,4,128GB SSD,AMD Radeon R7 M440,22,1,13
+Intel Core i7 6500U 2.5GHz,8,500GB HDD,Nvidia GeForce 920MX,36,17,31
+Intel Core i7 8550U 1.8GHz,16,512GB SSD,Intel UHD Graphics 620,45,19,29
+Intel Core i7 7500U 2.7GHz,16,512GB SSD,Intel HD Graphics 620,41,19,26
+Intel Core i7 6700HQ 2.6GHz,8,1TB HDD,Nvidia GeForce GTX 1060,38,6,41
+Intel Core i5 7200U 2.5GHz,8,256GB SSD,AMD Radeon R7 M445,30,10,14
+Intel Core i5 7200U 2.5GHz,8,256GB SSD,Intel HD Graphics 620,30,10,26
+AMD E-Series 9000 2.2GHz,4,500GB HDD,AMD Radeon R2 Graphics,9,17,5
+Intel Core i3 6006U 2.0GHz,8,1TB HDD,Nvidia GeForce 940MX,22,6,35
+Intel Core i7 7700HQ 2.8GHz,16,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,43,11,42
+Intel Core M 1.2GHz,8,512GB Flash Storage,Intel HD Graphics 515,18,18,21
+Intel Core i7 7700HQ 2.8GHz,16,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,43,2,41
+Intel Core i7 6700HQ 2.6GHz,16,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,38,11,41
+Intel Core i5 7200U 2.5GHz,8,256GB SSD,Intel HD Graphics 620,30,10,26
+Intel Core i7 7700HQ 2.8GHz,16,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,43,11,41
+Intel Celeron Dual Core 3205U 1.5GHz,2,32GB SSD,Intel HD Graphics,12,16,16
+Intel Core i3 6006U 2GHz,4,1TB HDD,Nvidia GeForce 940MX,23,6,35
+Intel Core i5 7200U 2.5GHz,8,1TB HDD,Intel HD Graphics 620,30,6,26
+Intel Core i7 6700HQ 2.6GHz,8,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960<U+039C>,38,2,45
+Intel Core i7 7Y75 1.3GHz,8,256GB SSD,Intel HD Graphics 615,44,10,25
+Intel Core i7 6600U 2.6GHz,8,256GB SSD,Intel HD Graphics 520,37,10,22
+Intel Core i7 6700HQ 2.6GHz,8,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,38,2,41
+AMD A12-Series 9720P 2.7GHz,6,1TB HDD,AMD Radeon 530,1,6,4
+Intel Core i5 6300U 2.4GHz,8,256GB SSD,Intel HD Graphics 520,29,10,22
+Intel Core i3 7100U 2.4GHz,4,500GB HDD,Intel HD Graphics 620,25,17,26
+Intel Pentium Quad Core N3710 1.6GHz,4,1TB HDD,Intel HD Graphics 405,48,6,18
+Intel Core i7 7500U 2.7GHz,8,256GB SSD,Intel HD Graphics 620,41,10,26
+Intel Core i5 7200U 2.5GHz,4,1TB HDD,Intel HD Graphics 520,30,6,22
+Intel Core i7 6700HQ 2.6GHz,16,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M,38,2,46
+Intel Core i7 7700HQ 2.8GHz,8,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,43,2,38
+Intel Core i7 6500U 2.50GHz,16,512GB SSD,Intel HD Graphics 520,35,19,22
+Intel Core i7 7700HQ 2.8GHz,16,1TB SSD,Nvidia GeForce GTX 1060,43,8,41
+Intel Core i3 7100U 2.4GHz,8,1TB HDD,Intel HD Graphics 620,25,6,26
+Intel Core i7 7700HQ 2.8GHz,16,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,43,11,41
+Intel Core i5 1.6GHz,4,256GB Flash Storage,Intel HD Graphics 6000,26,9,24
+Intel Core i3 6006U 2GHz,4,1TB HDD,Intel HD Graphics 520,23,6,22
+Intel Core i7 6500U 2.5GHz,8,256GB SSD,Intel HD Graphics 520,36,10,22
+Intel Core i5 6200U 2.3GHz,4,500GB HDD,Intel HD Graphics 520,27,17,22
+Intel Core i7 6700HQ 2.6GHz,8,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M,38,2,46
+Intel Core i7 7500U 2.7GHz,16,512GB SSD,Intel HD Graphics 620,41,19,26
+AMD A12-Series 9720P 3.6GHz,6,256GB SSD,AMD Radeon 530,2,10,4
+Intel Core i7 6500U 2.5GHz,8,256GB SSD,Intel HD Graphics 520,36,10,22
+Intel Core i3 6006U 2.0GHz,4,500GB HDD,Intel HD Graphics 520,22,17,22
+Intel Core i7 7500U 2.7GHz,16,512GB SSD,Nvidia GeForce 940MX,41,19,35
+Intel Core i5 6200U 2.3GHz,4,256GB SSD,Intel HD Graphics 520,27,10,22
+Intel Core i7 7700HQ 2.8GHz,16,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,43,11,39
+Intel Core i5 7200U 2.5GHz,4,500GB HDD,Intel HD Graphics 620,30,17,26
+Intel Core i7 6700HQ 2.6GHz,16,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,38,11,42
+Intel Core i5 7200U 2.5GHz,8,256GB SSD,Intel HD Graphics 620,30,10,26
+Intel Core i5 7Y54 1.2GHz,8,256GB SSD,Intel HD Graphics 615,33,10,25
+Intel Pentium Quad Core N3710 1.6GHz,4,500GB HDD,Intel HD Graphics,48,17,16
+AMD A6-Series 9220 2.5GHz,4,500GB HDD,AMD Radeon R4 Graphics,3,17,7
+Intel Core i3 6100U 2.3GHz,6,128GB SSD,Nvidia GeForce 920MX,24,1,31
+Intel Core i5 6200U 2.3GHz,8,256GB SSD,Intel HD Graphics 520,27,10,22
+Intel Pentium Quad Core N3700 1.6GHz,4,500GB HDD,Intel HD Graphics,47,17,16
+Intel Celeron Dual Core N3350 1.1GHz,4,1TB HDD,Intel HD Graphics 500,15,6,19
+Intel Core i7 6700HQ 2.6GHz,16,128GB SSD +  1TB HDD,Nvidia GeForce GTX 970M,38,2,48
+Intel Core i3 6006U 2GHz,4,500GB HDD,Intel HD Graphics 520,23,17,22
+Intel Core i7 6500U 2.5GHz,8,1TB Hybrid,AMD Radeon R5 M330,36,7,10
+Intel Core i7 6700HQ 2.6GHz,8,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M,38,2,46
+Intel Core i5 6200U 2.3GHz,4,128GB SSD,Intel HD Graphics 520,27,1,22
+Intel Core M 6Y30 0.9GHz,8,512GB SSD,Intel HD Graphics 515,19,19,21
+Intel Core i3 7100U 2.4GHz,6,1TB HDD,Intel HD Graphics 620,25,6,26
+Intel Celeron Dual Core N3060 1.6GHz,4,500GB HDD,Intel HD Graphics 400,14,17,17
+Intel Celeron Dual Core N3050 1.6GHz,2,500GB HDD,Intel HD Graphics,13,17,16
+Intel Core i7 6700HQ 2.6GHz,8,1TB HDD,Nvidia GeForce GTX 960M,38,6,46
+AMD A9-Series 9410 2.9GHz,6,1TB Hybrid,AMD Radeon R7 M440,6,7,13
+Intel Core i7 7500U 2.7GHz,8,1TB HDD,AMD Radeon R5 M430,41,6,11
+Intel Celeron Dual Core N3060 1.6GHz,2,32GB Flash Storage,Intel HD Graphics 400,14,15,17
+Intel Core i7 6500U 2.5GHz,4,500GB HDD,Nvidia GeForce 920M,36,17,30
+Intel Core i7 6500U 2.5GHz,4,128GB SSD,Intel HD Graphics 520,36,1,22
+Intel Core i7 6500U 2.5GHz,16,512GB SSD,Intel HD Graphics 520,36,19,22
+Intel Celeron Dual Core N3050 1.6GHz,2,64GB Flash Storage,Intel HD Graphics,13,22,16
+Intel Core i7 6500U 2.5GHz,6,1TB HDD,AMD Radeon R5 M330,36,6,10
+Intel Celeron Dual Core N3050 1.6GHz,4,500GB HDD,Intel HD Graphics,13,17,16
+Intel Core M 6Y30 0.9GHz,8,512GB SSD,Intel HD Graphics 515,19,19,21
+Intel Core i3 7100U 2.4GHz,6,1TB HDD,Intel HD Graphics 620,25,6,26
+Intel Celeron Dual Core N3060 1.6GHz,4,500GB HDD,Intel HD Graphics 400,14,17,17
+Intel Celeron Dual Core N3050 1.6GHz,2,500GB HDD,Intel HD Graphics,13,17,16
+Intel Core i7 6700HQ 2.6GHz,8,1TB HDD,Nvidia GeForce GTX 960M,38,6,46
+AMD A9-Series 9410 2.9GHz,6,1TB Hybrid,AMD Radeon R7 M440,6,7,13
+Intel Core i7 7500U 2.7GHz,8,1TB HDD,AMD Radeon R5 M430,41,6,11
+Intel Celeron Dual Core N3060 1.6GHz,2,32GB Flash Storage,Intel HD Graphics 400,14,15,17
+Intel Core i7 6500U 2.5GHz,4,500GB HDD,Nvidia GeForce 920M,36,17,30
+Intel Core i7 6500U 2.5GHz,4,128GB SSD,Intel HD Graphics 520,36,1,22
+Intel Core i7 6500U 2.5GHz,16,512GB SSD,Intel HD Graphics 520,36,19,22
+Intel Celeron Dual Core N3050 1.6GHz,2,64GB Flash Storage,Intel HD Graphics,13,22,16
+Intel Core i7 6500U 2.5GHz,6,1TB HDD,AMD Radeon R5 M330,36,6,10
+Intel Celeron Dual Core N3050 1.6GHz,4,500GB HDD,Intel HD Graphics,13,17,16
+Intel Core M 6Y30 0.9GHz,8,512GB SSD,Intel HD Graphics 515,19,19,21
+Intel Core i3 7100U 2.4GHz,6,1TB HDD,Intel HD Graphics 620,25,6,26
+Intel Celeron Dual Core N3060 1.6GHz,4,500GB HDD,Intel HD Graphics 400,14,17,17
+Intel Celeron Dual Core N3050 1.6GHz,2,500GB HDD,Intel HD Graphics,13,17,16
+Intel Core i7 6700HQ 2.6GHz,8,1TB HDD,Nvidia GeForce GTX 960M,38,6,46
+AMD A9-Series 9410 2.9GHz,6,1TB Hybrid,AMD Radeon R7 M440,6,7,13
+Intel Core i7 7500U 2.7GHz,8,1TB HDD,AMD Radeon R5 M430,41,6,11
+Intel Celeron Dual Core N3060 1.6GHz,2,32GB Flash Storage,Intel HD Graphics 400,14,15,17
+Intel Core i7 6500U 2.5GHz,4,500GB HDD,Nvidia GeForce 920M,36,17,30
+Intel Core i7 6500U 2.5GHz,4,128GB SSD,Intel HD Graphics 520,36,1,22
+Intel Core i7 6500U 2.5GHz,16,512GB SSD,Intel HD Graphics 520,36,19,22
+Intel Celeron Dual Core N3050 1.6GHz,2,64GB Flash Storage,Intel HD Graphics,13,22,16
+Intel Core i7 6500U 2.5GHz,6,1TB HDD,AMD Radeon R5 M330,36,6,10
+Intel Celeron Dual Core N3050 1.6GHz,4,500GB HDD,Intel HD Graphics,13,17,16
