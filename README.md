@@ -23,7 +23,7 @@ Data columns (total 13 columns):
  12  Price                     977 non-null    float64
 dtypes: float64(1), object(12)
 
-Lo primero que se hiz fue comprobar la variedad de valores distintos en cada una de las columnas, y comprobar cuáles pueden convertirse en columnas numéricas.
+Lo primero que se hizo fue comprobar la variedad de valores distintos en cada una de las columnas, y comprobar cuáles pueden convertirse en columnas numéricas.
 
 Mediante LabelEncoder, cree nuevas columnas con valores numéricos para Manufacturer, Category, Sceen, SPU, Storage y GPU.
 
@@ -44,4 +44,48 @@ Con todas estas columnas numéricas, podemos realizar una matriz de correlación
 Finalmente, tenemos 3 categorís principales que influyen en el precio: CPU, RAM, Storage, y GPU.
 
 Guardamos eso como un nuevo archivo .csv, y lo usamos para entrenar el modelo.
-    
+
+Usamos ese archivo para entrenar el modelo, searando el dataframe en X(Columnas usadas para predecir, es decir, todas excepto el precio) e Y (Precio, la columna a predecir).
+
+Establecemos una poblacion de entrenamiento del 80%
+
+X_train, X_test, y_train, y_test = tts(X, y, test_size=0.2, random_state=42)
+
+Y lo asignamos al modelo lineal
+
+linear = LinearRegression()
+
+linear.fit(X_train, y_train)
+
+y_train_pred = linear.predict(X_train)
+y_test_pred = linear.predict(X_test)
+
+print (y_train_pred)
+
+Obtnemos valores como R^2, SME y SAM, y decidimos si el modelo es lo suficientemente bueno.
+
+
+Una vez hecho esto, podemos incluir la población de testeo (que no incluye el Precio) en el modelo
+
+linear = LinearRegression()
+
+linear.fit(X, y)
+
+yFinal = linear.predict(XFinal)
+
+
+print (yFinal)
+
+
+Convertimos yFinal en dataframe
+
+FIN = pd.DataFrame(yFinal)
+
+y lo guardamos como archivo .csv
+
+FIN.to_csv('predfinal.csv')
+
+
+
+
+yFinal = linear.predict(XFinal)
